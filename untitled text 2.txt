@@ -1,0 +1,37 @@
+Comme annoncé, vous allez travailler sur un projet de présentation à partir d’un article scientifique (au choix parmi 5 proposés). Voici les consignes à suivre :
+
+La présentation se fait en binôme.
+Si vous ne trouvez pas de binôme, vous pouvez travailler seul(e) exceptionnellement.
+
+La durée totale de la présentation est de 25 minutes, incluant les échanges et les questions.
+
+Le contenu de la présentation devra suivre ce plan :
+
+1.Introduction
+
+2.Problématique
+
+3.Solution proposée dans l’article
+
+4.Résultats et expériences
+
+5.Conclusion
+
+Dans la partie "Résultats et expériences", vous devez intégrer une vidéo (à projeter pendant la présentation) montrant :
+
+le test du modèle proposé dans l’article,
+
+la validation des résultats obtenus.
+
+La vidéo fait partie intégrante de la présentation et ne doit pas être envoyée séparément.
+
+Vous trouverez 5 articles proposés. À vous de choisir celui que vous souhaitez présenter.
+
+Si aucun des articles ne vous convient, vous pouvez proposer un article en lien avec le sujet de votre mémoire ou de vos mémoires.
+
+La présentation est orale avec support visuel (type PowerPoint, PDF, etc.).
+
+
+Ci-joint, vous trouverez les 5 articles proposés ainsi sur GitHub.
+
+N’hésitez pas à revenir vers moi si vous avez des questions ou besoin d’éclaircissements.
